@@ -21,6 +21,12 @@ function App() {
           omnis esse maiores quas quis! Beatae nulla quasi expedita
           voluptatibus?
         </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus et
+          distinctio nemo sit tempora. Ab quisquam mollitia vitae dolorem odio
+          omnis esse maiores quas quis! Beatae nulla quasi expedita
+          voluptatibus?
+        </p>
         <h3>Habilidades Principais</h3>
         <ul>
           <li>Motagem e manutenção de PCs</li>
