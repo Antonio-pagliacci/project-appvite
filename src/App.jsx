@@ -1,11 +1,22 @@
 import "./App.css";
 
+
+
+
 function App() {
+
+
+
   return (
     <>
       <header>
         <h1>Antonio Pagliacci</h1>
         <p>Tecnico em informatica - estudante - Apaixonado por tecnologia</p>
+          
+
+
+
+
       </header>
       <main>
         <h2>Sobre mim</h2>
@@ -31,6 +42,7 @@ function App() {
       </main>
       <footer>
         <h5>&copy; Desenvolvido por Antonio Pagliacci</h5>
+        
       </footer>
     </>
   );
